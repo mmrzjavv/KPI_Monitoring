@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+*.egg-info/
+.DS_Store
+
+# runtime artifacts (activity logs, session logs, reports)
+data/
+*.pt
+
+# streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
